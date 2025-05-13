@@ -10,6 +10,12 @@
 
 ##  Hi there 👋
 
-- 📫 Life is an unscripted show, and we're all just figuring it out as we go.
-- 💬 How to reach me ...
+Life is an unscripted show, and we're all just figuring it out as we go.
+
+- 📫 Join my discord
+
+https://discord.gg/uR3pKuEK
+
+- 💬 Chat with we ...
+
 https://chat.whatsapp.com/DOH8fmDf59oIwWtdI1Quwb
