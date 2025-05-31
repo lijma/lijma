@@ -1,8 +1,7 @@
 
 ##  Hi there 👋
 
-Life is an unscripted show, and we're all just figuring it out as we go.
-
+Think Big, Do Small.
 Join me on the journey to build a smart business
 
 - 📫 Join my discord
@@ -17,8 +16,6 @@ https://chat.whatsapp.com/DOH8fmDf59oIwWtdI1Quwb
 ## 你好！
 
 欢迎来到marvin的github, 
-
-人生没有彩排，每一秒都是现场直播! 
 
 关注我，用学到的技术创造价值！
 
