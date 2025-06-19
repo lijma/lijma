@@ -1,26 +1,33 @@
-
 ##  Hi there 👋
 
-Think Big, Do Small.
-Join me on the journey to build a smart business
+I am Marvin, a developer who builds bridges between technology and business value.
 
-- 📫 Join my discord
+## Developer & Entrepreneur
 
-https://discord.gg/uR3pKuEK
+**Jimmer.org Co-founder** · **Enterprise Software Architecture** · **Shiliu AI Founder**
 
-- 💬 Chat with we ...
+### Core Competencies
+- Enterprise technical training & consulting
+- 10+ years system architecture design
+- Bilingual technical communication
 
-https://chat.whatsapp.com/DOH8fmDf59oIwWtdI1Quwb
+### Service Areas
+`Enterprise Development` `Architecture Design` `AI Solutions` `Technical Training` `Digital Transformation`
 
+---
 
-## 你好！
+## 技术开发 & 创业者
 
-欢迎来到marvin的github, 
+**企业级软件架构** · **Jimmer.org联合发起人** · **Shiliu AI开发者**
 
-关注我，用学到的技术创造价值！
+### 核心能力
+- 企业技术培训与咨询
+- 10+年系统架构设计经验
+- 双语技术沟通
 
-- 🔭 程序员、编程培训、技术咨询、AI创业、演讲沟通
-- 🌱 能咨询能培训、能管项目能管人、能架构能开发、英语吵架不怂
-- 👯 10年+IT行业经验，N个行业知名企业数字化改造项目实施经验，持续创业者
-- ⚡ 微信好友 18010533092
-- ⚡ 加入我的星球，一起前行！ https://t.zsxq.com/jL6GM
+### 服务领域
+`企业开发` `架构设计` `AI解决方案` `技术培训` `数字化转型`
+
+**Connect | 联系**
+- 📫 Discord Community: https://discord.gg/uR3pKuEK
+- 💬 WhatsApp: https://chat.whatsapp.com/DOH8fmDf59oIwWtdI1Quwb
