@@ -16,7 +16,7 @@ I am Marvin, a developer who builds bridges between technology and business valu
 
 ---
 
-## 技术开发 & 创业者
+## 软件开发 & 创业者
 
 **企业级软件架构** · **Jimmer.org联合发起人** · **Shiliu AI开发者**
 
