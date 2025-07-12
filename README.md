@@ -2,7 +2,7 @@
 
 I am Marvin, a Digital Nomad and Serial Entrepreneur.
 
-Currently, I'm focused on AI project development with **Shiliu AI** (Ai-shi-liu.com) and promoting the **Jimmer.org** ORM project.
+Currently, I'm focused on AI project development with **[Shiliu AI](https://ai-shi-liu.com)** and promoting the **[Jimmer.org](https://jimmer.org)** ORM project.
 
 ### Areas of Expertise
 - AI Agent
