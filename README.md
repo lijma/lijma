@@ -1,6 +1,6 @@
-##  Hi there 👋
+## Hi there 👋
 
-I am Marvin, a developer who builds bridges between technology and business value.
+I am Marvin, a Digital Nomad and Serial Entrepreneur, building bridges between technology and business value.
 
 ## Developer & Entrepreneur
 
@@ -16,7 +16,7 @@ I am Marvin, a developer who builds bridges between technology and business valu
 
 ---
 
-## 软件开发 & 创业者
+## 技术开发 & 创业者
 
 **企业级软件架构** · **Jimmer.org联合发起人** · **Shiliu AI开发者**
 
@@ -30,4 +30,4 @@ I am Marvin, a developer who builds bridges between technology and business valu
 
 **Connect | 联系**
 - 📫 Discord Community: https://discord.gg/uR3pKuEK
-- 💬 WhatsApp: https://chat.whatsapp.com/DOH8fmDf59oIwWtdI1Quwb
+- 💬 WeChat: 18010533092
