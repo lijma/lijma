@@ -14,6 +14,7 @@ With a background in software development, enterprise consulting, and communicat
 - On Medium: https://medium.com/@marvin-lijma
 - On Bilibili: https://space.bilibili.com/521072883
 - On InfoQ: https://www.infoq.cn/u/marvin/publish
+- On Marvin's Talk: http://chatgpt-community.cn
 
 
 ### Let's Connect
