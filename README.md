@@ -6,7 +6,7 @@ I'm Marvin, an indie AI entrepreneur passionate about building big things with s
 
 With a background in software development, enterprise consulting, and communication coaching, I specialize in transforming bold technical visions into impactful, real-world products.
 
-### Find My Work
+### I Am Saying
 - On Twitter: https://twitter.com/marvinmlj
 - On Reddit: https://www.reddit.com/user/Content_Ad_9454/
 - On YouTube: https://www.youtube.com/@lijma
