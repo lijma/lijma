@@ -6,7 +6,7 @@ I'm an indie AI entrepreneur who loves building ambitious products with small, a
 
 With a background in software development, enterprise consulting, and communication coaching, I help turn bold technical ideas into impactful, real-world products.
 
-### Check Out My Open Courses
+### My Courses
 
 - [Jimmer in Action](https://quickstart.jimmer.org)
 - [7-Day Quickstart](https://github.com/lijma/7-days-quickstart)
