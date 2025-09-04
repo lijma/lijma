@@ -1,4 +1,4 @@
-## Marvin — Solo with AI. 1000 Projects.
+## Marvin — Solo with AI. 1000 Projects. Build in public
 
 Ship fast. Validate faster. Deliver impact.
 
