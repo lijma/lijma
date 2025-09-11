@@ -8,24 +8,6 @@
 - **#做好**: 优化与增长的思考。
 - **#被看到**: 提升个人影响力的方法。
 
----
-
-### 🚀 My Projects & Proof
-
-- **Marvin AI**: https://ai-shi-liu.com
-- **Jimmer (ORM)**: https://jimmer.org
-
----
-
-### 💬 Let's Connect
-
-- **WeChat**: See QR code below
-- **Follow my journey**: [Link to your primary content platform, e.g., Bilibili, Blog]
-
----
-<details>
-<summary>🇬🇧 English Version</summary>
-
 ### 👋 Hi, I'm Marvin (码文)
 
 A builder who believes: "Execution over ideation, visibility over execution."
@@ -38,8 +20,8 @@ Here I build in public and share my journey on:
 
 My goal is to help makers and founders build and deliver faster.
 
-</details>
 
----
+### 🚀 My Projects & Proof
 
-![1756553050827](image/README/1756553050827.png)
+- **Marvin AI**: https://ai-shi-liu.com
+- **Jimmer (ORM)**: https://jimmer.org
