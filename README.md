@@ -25,3 +25,4 @@ My goal is to help makers and founders build and deliver faster.
 
 - **Marvin AI**: https://ai-shi-liu.com
 - **Jimmer (ORM)**: https://jimmer.org
+- **Cat Emoji Generator(vibecoding)**: [https://catemojigenerator.xyz](https://catemojigenerator.xyz/)
