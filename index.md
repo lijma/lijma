@@ -12,12 +12,13 @@ permalink: /
 **做到比想到重要，让别人看到更重要**
 {: .fs-6 .fw-300 }
 
-[开始阅读](#hi-我是-marvin码文){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[开始阅读](#from-idea-to-product){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [GitHub](https://github.com/lijma){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
 ## Hi, 我是 Marvin（码文）
+{: #from-idea-to-product }
 
 **全栈开发者 / 连续创业者 / 10年+ 演讲发烧友**
 
@@ -42,8 +43,7 @@ permalink: /
 
 ---
 
-## 这里的“所谓”干货
-
+## 这里的“所谓”干货{: #build-launch-grow }
 很多技术人（包括曾经的我）常有的困惑：
 - **有想法**，但不知道是不是伪需求？
 - **能实现**，但不知道从哪里开始构建？
@@ -73,12 +73,14 @@ graph LR
 ---
 
 ## 最新文章
+{: #latest-tutorials }
 
 *(内容正在酿造中...)*
 
 ---
 
 ## 交个朋友
+{: #join-community }
 
 不管你是程序员、产品经理、设计师，还是任何不安于现状的**创造者**。只要你想把脑海中的火花变成手中的现实，我们就是同路人。
 
