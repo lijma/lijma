@@ -9,6 +9,6 @@ My goal is to help makers and founders build and deliver faster.
 
 ### 🚀 My Projects & Proof
 
-- **A2UI Genie**: [https://ai-shi-liu.com](https://github.com/lijma/Genie)
+- **A2UI Genie**: [https://github.com/lijma/Genie](https://github.com/lijma/Genie)
 - **Jimmer ORM (Marketing)**: https://jimmer.org
 - **Cat Emoji Generator(vibecoding)**: [https://catemojigenerator.xyz](https://catemojigenerator.xyz/)
