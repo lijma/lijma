@@ -8,8 +8,8 @@ baseurl: "/lijma"
 theme: just-the-docs
 color_scheme: light
 
-# Logo 和品牌
-logo: "/assets/images/logo.png"
+# Logo 和品牌（暂时禁用 logo，使用文字标题）
+# logo: "/assets/images/logo.png"
 
 # 搜索配置
 search_enabled: true
