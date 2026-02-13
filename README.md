@@ -8,5 +8,5 @@ Here I build in public and share my journey on:
 ### 🚀 My Projects & Proof
 
 - **A2UI Genie**: [https://github.com/lijma/Genie](https://github.com/lijma/Genie)
-- **Jimmer ORM (Marketing)**: https://jimmer.org
+- **Jimmer ORM (Operation)**: https://jimmer.org
 - **Cat Emoji Generator(vibecoding)**: [https://catemojigenerator.xyz](https://catemojigenerator.xyz/)
