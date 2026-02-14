@@ -7,6 +7,9 @@ Here I build in public and share my journey on:
 
 ### 🚀 My Projects & Proof
 
+- **fcontext (agent skill)**: [[https://github.com/lijma/Genie](https://lijma.github.io/agent-skill-fcontext/)]
 - **A2UI Genie**: [https://github.com/lijma/Genie](https://github.com/lijma/Genie)
-- **Jimmer ORM (Operation)**: https://jimmer.org
-- **Cat Emoji Generator(vibecoding)**: [https://catemojigenerator.xyz](https://catemojigenerator.xyz/)
+- **Cat Emoji Generator (vibecoding)**: [https://catemojigenerator.xyz](https://catemojigenerator.xyz/)
+
+### 🚀 My Contributions
+- **Jimmer ORM (marketing)**: https://jimmer.org
