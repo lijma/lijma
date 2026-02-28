@@ -25,7 +25,8 @@ theme:
     - search.suggest
 
 nav:
-  - 最近更新: blog/index.md
+  - Home: index.md
+  - fcontext: https://lijma.github.io/agent-skill-fcontext/
   - 关于: about.md
   - 随想: https://lijma.github.io/lives/
 
@@ -55,13 +56,13 @@ markdown_extensions:
 plugins:
   - search
   - blog:
-      blog_dir: blog
+      blog_dir: .
       post_date_format: yyyy年M月d日
       archive: true
       archive_date_format: yyyy年
       categories: true
   - rss:
-      match_path: "blog/posts/.*"
+      match_path: "posts/.*"
       date_from_meta:
         as_creation: date
         datetime_format: "%Y-%m-%d"
