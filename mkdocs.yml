@@ -4,6 +4,8 @@ site_author: Marvin Ma
 site_url: https://lijma.github.io/lijma/
 repo_url: https://github.com/lijma/lijma
 repo_name: lijma/lijma
+docs_dir: docs
+site_dir: site
 
 theme:
   name: material
@@ -27,6 +29,7 @@ theme:
 nav:
   - Home: index.md
   - fcontext: https://lijma.github.io/agent-skill-fcontext/
+  - Jimmer ORM: https://lijma.github.io/jimmer-in-action/
   - 关于: about.md
   - 随想: https://lijma.github.io/lives/
 
