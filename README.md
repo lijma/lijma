@@ -12,4 +12,7 @@ Here I build in public and share my journey on:
 - **Cat Emoji Generator (vibecoding)**: [https://catemojigenerator.xyz](https://catemojigenerator.xyz/)
 
 ### 🚀 My Contributions
-- **Jimmer ORM (marketing)**: https://jimmer.org
+- **Jimmer ORM (marketing)**: [https://jimmer.org](https://jimmer.org)
+
+### 🚀 生活随想日记
+- **随想日记**: [https://lijma.github.io/lives/](https://lijma.github.io/lives/)
