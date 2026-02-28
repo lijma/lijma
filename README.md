@@ -14,5 +14,7 @@ Here I build in public and share my journey on:
 ### 🚀 My Contributions
 - **Jimmer ORM (marketing)**: [https://jimmer.org](https://jimmer.org)
 
-### 🚀 生活随想日记
+### 🚀 阅读和写作
+- **技术写作**: [https://lijma.github.io/lijma/](https://lijma.github.io/lijma/)
 - **随想日记**: [https://lijma.github.io/lives/](https://lijma.github.io/lives/)
+
