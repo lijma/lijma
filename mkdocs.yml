@@ -67,6 +67,8 @@ plugins:
       archive: true
       archive_date_format: yyyy年
       categories: true
+      post_excerpt: optional
+      post_excerpt_max_chars: 200
   - rss:
       match_path: "posts/.*"
       date_from_meta:
