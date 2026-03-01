@@ -34,6 +34,9 @@ nav:
   - 随想: https://lijma.github.io/lives/
 
 extra:
+  analytics:
+    provider: google
+    property: G-WC9TQK6KRV
   social:
     - icon: fontawesome/brands/bluesky
       link: https://bsky.app/profile/marvintalk.bsky.social
