@@ -7,8 +7,9 @@ Here I build in public and share my journey on:
 
 ### 🚀 My Projects & Proof
 
-- **fcontext (agent skill)**: [[https://lijma.github.io/agent-skill-fcontext/](https://lijma.github.io/agent-skill-fcontext/)]
-- **A2UI Genie**: [https://github.com/lijma/Genie](https://github.com/lijma/Genie)
+- **floop (manage design like code)**: [[https://lijma.github.io/agent-skill-floop/](https://lijma.github.io/agent-skill-floop/)]
+- **fcontext (manage context like code)**: [[https://lijma.github.io/agent-skill-fcontext/](https://lijma.github.io/agent-skill-fcontext/)]
+- **A2UI Genie (generate realtime ui)**: [https://github.com/lijma/Genie](https://github.com/lijma/Genie)
 - **Cat Emoji Generator (vibecoding)**: [https://catemojigenerator.xyz](https://catemojigenerator.xyz/)
 
 ### 🚀 My Contributions
