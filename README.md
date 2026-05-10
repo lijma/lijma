@@ -9,7 +9,8 @@ Here I build in public and share my journey on:
 
 - **floop (manage design like code)**: [[https://github.com/lijma/floop-server)]
 - **fcontext (manage context like code)**: [[https://lijma.github.io/agent-skill-fcontext/](https://lijma.github.io/agent-skill-fcontext/)]
-- **A2UI Genie (generate realtime ui)**: [https://github.com/lijma/Genie](https://github.com/lijma/Genie)
+- **A2UI Genie (server generated ui)**: [https://github.com/lijma/Genie](https://github.com/lijma/Genie) [deprecated]
+    - alternative: AGUI (client generated UI) https://github.com/ag-ui-protocol/ag-ui
 - **Cat Emoji Generator (vibecoding)**: [https://catemojigenerator.xyz](https://catemojigenerator.xyz/)
 
 ### 🚀 My Contributions
