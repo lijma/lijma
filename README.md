@@ -7,6 +7,7 @@ Here I build in public and share my journey on:
 
 ### 🚀 My Projects & Proof
 
+- **testboat (manage test like code)**: [[https://lijma.github.io/testboat/)]
 - **floop (manage design like code)**: [[https://github.com/lijma/floop-server)]
 - **fcontext (manage context like code)**: [[https://lijma.github.io/agent-skill-fcontext/](https://lijma.github.io/agent-skill-fcontext/)]
 - **A2UI Genie (server generated ui)**: [https://github.com/lijma/Genie](https://github.com/lijma/Genie) [deprecated]
