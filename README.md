@@ -7,6 +7,7 @@ Here I build in public and share my journey on:
 
 ### 🚀 My Projects & Proof
 
+- **fgeo (building and operating an AI-assisted go-to-market content system)**: [[https://lijma.github.io/agent-skill-fgeo/)]
 - **testboat (manage test like code)**: [[https://lijma.github.io/testboat/)]
 - **floop (manage design like code)**: [[https://github.com/lijma/floop-server)]
 - **fcontext (manage context like code)**: [[https://lijma.github.io/agent-skill-fcontext/](https://lijma.github.io/agent-skill-fcontext/)]
