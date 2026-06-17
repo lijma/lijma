@@ -15,5 +15,5 @@ Here I build in public and share my journey on:
     - alternative: AGUI (client generated UI) https://github.com/ag-ui-protocol/ag-ui
 - **Cat Emoji Generator (vibecoding)**: [https://catemojigenerator.xyz](https://catemojigenerator.xyz/)
 
-### 🚀 My Contributions
-- **Jimmer ORM (marketing)**: [https://jimmer.org](https://jimmer.org)
+### 🚀 My Books
+- **Jimmer In Action**: [https://lijma.github.io/jimmer-in-action/]([https://jimmer.org](https://lijma.github.io/jimmer-in-action/))
