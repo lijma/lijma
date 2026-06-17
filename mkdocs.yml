@@ -28,8 +28,11 @@ theme:
 
 nav:
   - Home: index.md
+  - floop: https://github.com/lijma/floop-server
+  - testboat: https://lijma.github.io/testboat/
   - fcontext: https://lijma.github.io/agent-skill-fcontext/
-  - Jimmer ORM: https://lijma.github.io/jimmer-in-action/
+  - fgeo: https://lijma.github.io/agent-skill-fgeo/
+  - Jimmer in action: https://lijma.github.io/jimmer-in-action/
   - 关于: about.md
   - 随想: https://lijma.github.io/lives/
 
@@ -68,7 +71,6 @@ plugins:
       archive_date_format: yyyy年
       categories: true
       post_excerpt: optional
-      post_excerpt_max_chars: 200
   - rss:
       match_path: "posts/.*"
       date_from_meta:
