@@ -3,16 +3,15 @@ title: "别再让 AI 把前端做成一次性原型：我为什么做 floop"
 date: 2026-06-17
 author: Marvin
 categories:
-  - AI编程
+  - AI工程
   - 前端工程
-  - Developer Tools
+  - 开发者工具
 tags:
   - floop
   - AI Agent
-  - UI工程
+  - UI 工程
   - 设计系统
   - 前端质量
-  - Build in Public
 ---
 
 太长不读：
@@ -196,4 +195,3 @@ floop 想把这件事提前。
 项目地址：
 
 [https://github.com/lijma/floop-server](https://github.com/lijma/floop-server)
-

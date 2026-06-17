@@ -2,19 +2,14 @@
 date: 2026-02-28
 author: Marvin
 categories:
-  - Agent
-  - Skills
-  - Build in Public
-tags:
-  - AI编程
-  - AI协作
-  - 上下文工程
-  - Context Engineering
+  - AI工程
   - 开发者工具
-  - 独立开发
-  - Developer Tools
-  - AI Context
-  - Multi-Agent
+tags:
+  - fcontext
+  - AI Agent
+  - 上下文工程
+  - 多 Agent 协作
+  - 项目记忆
 ---
 
 # 我的 AI 又双叒失忆了，所以我花两周做了个工具治它

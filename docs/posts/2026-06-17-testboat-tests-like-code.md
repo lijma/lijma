@@ -3,16 +3,15 @@ title: "AI 把开发变快以后，测试不能继续靠 Excel 硬扛"
 date: 2026-06-17
 author: Marvin
 categories:
+  - AI工程
   - 测试工程
-  - AI协作
-  - Developer Tools
+  - 开发者工具
 tags:
   - testboat
   - AI Agent
-  - 测试管理
-  - Testing
   - QA
-  - Build in Public
+  - 测试管理
+  - 发布治理
 ---
 
 太长不读：
@@ -487,4 +486,3 @@ testboat 的答案是：把测试生命周期变成一套文件化、状态化�
 文档：
 
 [https://lijma.github.io/testboat/](https://lijma.github.io/testboat/)
-
