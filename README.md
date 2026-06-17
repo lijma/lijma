@@ -5,7 +5,7 @@ Here I build in public and share my journey on:
 - **#Execution**: The process of building products/solutions from 0 to 1.
 - **#Visibility**: Methods for increasing personal influence.
 
-### 🚀 My Projects & Proof
+### 🚀 My Projects
 
 - **fgeo (AI-assisted go-to-market content system)**: [[https://lijma.github.io/agent-skill-fgeo/)]
 - **testboat (manage test like code)**: [[https://lijma.github.io/testboat/)]
