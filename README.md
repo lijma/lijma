@@ -16,4 +16,4 @@ Here I build in public and share my journey on:
 - **Cat Emoji Generator (vibecoding)**: [https://catemojigenerator.xyz](https://catemojigenerator.xyz/)
 
 ### 🚀 My Books
-- **Jimmer In Action**: [https://lijma.github.io/jimmer-in-action/]([https://jimmer.org](https://lijma.github.io/jimmer-in-action/))
+- **Jimmer In Action**: [https://lijma.github.io/jimmer-in-action/](https://lijma.github.io/jimmer-in-action/)
