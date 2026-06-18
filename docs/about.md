@@ -1,13 +1,13 @@
 ---
 title: 关于码文说
-description: Help makers and founders build skills and deliver value.
+description: 关注企业 AI 落地和复杂系统实践，把想法做出来，让更多人看见。
 ---
 
 # 关于码文说
 
-码文说 (MarvinTalk) — Help makers and founders build skills and deliver value.
+码文说 (MarvinTalk) 关注企业 AI 落地和复杂系统实践，把想法做出来，让更多人看见。
 
-给谁看的？**对"把能力变成可交付成果"有强动机的人。**
+给谁看的？**希望借助技术和 AI，把想法落地成真实业务成果或数字化产品的企业老板、业务负责人和个人创造者。**
 
 ---
 
@@ -16,11 +16,11 @@ description: Help makers and founders build skills and deliver value.
 **理解问题**
 :   不急着动手。先把问题掰碎了想清楚——是简单问题、复杂问题、还是系统性问题？方向不对，执行力越强死得越快。
 
-**打造技能**
-:   从 0 到 1 构建产品与解决方案。Build in Public，过程全公开，踩坑全记录。每篇文章都有可执行的输出——工具、方法论或代码。
+**落地想法**
+:   从一句想法，到可验证的业务成果、数字化产品或内部工具。过程尽量讲清楚，踩坑也尽量留下来。
 
-**让技能被看到**
-:   做一个产品花 1 天，宣传到各个平台要花 3 天。这个比例要反过来。
+**被更多人看见**
+:   好想法做出来以后，还要被用户、客户、伙伴和更大的开发者世界理解。这里也记录产品表达、开源项目和内容分发的探索。
 
 ---
 
@@ -37,4 +37,4 @@ description: Help makers and founders build skills and deliver value.
 - **GitHub**: [github.com/lijma](https://github.com/lijma)
 - **Bluesky**: [@marvintalk.bsky.social](https://bsky.app/profile/marvintalk.bsky.social)
 
-> 关注我，一起把想法变成现实。`#技术出海` `#AI` `#影响力`
+> Sharing my journey from ideas to impact. `#AI` `#BuildInPublic`
