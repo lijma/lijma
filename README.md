@@ -12,9 +12,7 @@ I focus on enterprise AI implementation and complex-system practice, sharing how
 
 ### My Products
 
-- [floop server](https://github.com/lijma/floop-server)
-
-distribute assets as shareable links, and collect inline comments: no extra tools, no vendor lock-in.
+- [floop server](https://github.com/lijma/floop-server): distribute assets as shareable links, and collect inline comments: no extra tools, no vendor lock-in.
 
 ### My Projects
 
