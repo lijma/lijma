@@ -12,13 +12,15 @@ I focus on enterprise AI implementation and complex-system practice, sharing how
 
 ### My Products
 
-- [floop server](https://github.com/lijma/floop-server): distribute assets as shareable links, and collect inline comments: no extra tools, no vendor lock-in.
+- [floop server](https://github.com/lijma/floop-server): floop connects your AI development workflow to real user feedback. no extra tools, no vendor lock-in.
 
 ### Skills
 
+- **floop-client (distribute assets as shareable links)**: [https://github.com/lijma/floop-client](https://github.com/lijma/floop-client)
 - **fppt (manage deck like code)**: [https://github.com/lijma/fppt](https://github.com/lijma/fppt)
 - **fgeo (manage growth like code)**: [https://github.com/lijma/fgeo](https://github.com/lijma/fgeo)
-- **testboat (manage test like code)**: [https://lijma.github.io/testboat/](https://lijma.github.io/testboat/)\
+- **testboat (manage test like code)**: [https://lijma.github.io/testboat/](https://lijma.github.io/testboat/)
+- **fdesign (manage design like code)**: [https://github.com/lijma/fdesign](https://github.com/lijma/fdesign)
 - **fcontext (manage context like code)**: [https://lijma.github.io/agent-skill-fcontext/](https://lijma.github.io/agent-skill-fcontext/)
 
 
