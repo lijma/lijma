@@ -1,7 +1,5 @@
 ### Hi, I'm Marvin (码文)
 
-I write `码文说` / `MarvinTalk`.
-
 I focus on enterprise AI implementation and complex-system practice, sharing how ideas become real products, business outcomes, and things more people can see.
 
 **Slogan**: Sharing my journey from ideas to impact. `#AI` `#BuildInPublic`
