@@ -12,18 +12,15 @@ I focus on enterprise AI implementation and complex-system practice, sharing how
 
 ### My Products
 
-
-- [mahu马虎](https://github.com/lijma/mahu): your free AI work buddy for context, prototypes, tests, feedback, presentation, growth and more. Bring me into your daily workflow.
 - [floop server](https://github.com/lijma/floop-server): floop connects your AI development workflow to real user feedback. no extra tools, no vendor lock-in.
-
 
 ### Projects
 
-- **floop-client (distribute assets as shareable links)**: [https://github.com/lijma/floop-client](https://github.com/lijma/floop-client)
-- **fppt (manage deck like code)**: [https://github.com/lijma/fppt](https://github.com/lijma/fppt)
+- **floop-client (connects your AI development workflow to real user feedback)**: [https://github.com/lijma/floop-client](https://github.com/lijma/floop-client)
 - **testboat (manage test like code)**: [https://lijma.github.io/testboat/](https://lijma.github.io/testboat/)
 - **fdesign (manage design like code)**: [https://github.com/lijma/fdesign](https://github.com/lijma/fdesign)
 - **fcontext (manage context like code)**: [https://lijma.github.io/agent-skill-fcontext/](https://lijma.github.io/agent-skill-fcontext/)
-- **Jimmer In Action**: [https://lijma.github.io/jimmer-in-action/](https://lijma.github.io/jimmer-in-action/)
-- **Cat Emoji Generator (vibecoding)**: [https://catemojigenerator.xyz](https://catemojigenerator.xyz/)
+- **fppt (manage deck like code)**: [https://github.com/lijma/fppt](https://github.com/lijma/fppt)
+- **Jimmer In Action (book)**: [https://lijma.github.io/jimmer-in-action/](https://lijma.github.io/jimmer-in-action/)
+- **Cat Emoji Generator (vibecoding poc)**: [https://catemojigenerator.xyz](https://catemojigenerator.xyz/)
 - **A2UI Genie (server generated ui)**: [https://github.com/lijma/Genie](https://github.com/lijma/Genie)
