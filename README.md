@@ -16,7 +16,7 @@ I focus on enterprise AI implementation and complex-system practice, sharing how
 
 ### Projects
 
-- **floop-client (connects your AI development workflow to real user feedback)**: [https://github.com/lijma/floop-client](https://github.com/lijma/floop-client)
+- **floop (connects your AI development workflow to real user feedback)**: [https://github.com/lijma/floop-client](https://github.com/lijma/floop-client)
 - **testboat (manage test like code)**: [https://lijma.github.io/testboat/](https://lijma.github.io/testboat/)
 - **fdesign (manage design like code)**: [https://github.com/lijma/fdesign](https://github.com/lijma/fdesign)
 - **fcontext (manage context like code)**: [https://lijma.github.io/agent-skill-fcontext/](https://lijma.github.io/agent-skill-fcontext/)
