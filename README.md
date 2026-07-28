@@ -8,9 +8,14 @@ I focus on enterprise AI implementation and complex-system practice, sharing how
 
 **Not about**: news aggregation, abstract takes without execution, or chasing trends without turning them into reusable practice.
 
+### Growth
+- **FGEO User Growth(Action x Feedback x Adaptation)**: [https://github.com/lijma/fgeo](https://github.com/lijma/fgeo)
+- **Jimmer In Action (book)**: [https://lijma.github.io/jimmer-in-action/](https://lijma.github.io/jimmer-in-action/)
+
 ### My Products
 
 - [floop server](https://github.com/lijma/floop-server): floop connects your AI development workflow to real user feedback. no extra tools, no vendor lock-in.
+- [https://catemojigenerator.xyz](https://catemojigenerator.xyz/): vibe code example, for my 7 child cats
 
 ### Projects
 
@@ -19,6 +24,5 @@ I focus on enterprise AI implementation and complex-system practice, sharing how
 - **fdesign (manage design like code)**: [https://github.com/lijma/fdesign](https://github.com/lijma/fdesign)
 - **fcontext (manage context like code)**: [https://lijma.github.io/agent-skill-fcontext/](https://lijma.github.io/agent-skill-fcontext/)
 - **fppt (manage deck like code)**: [https://github.com/lijma/fppt](https://github.com/lijma/fppt)
-- **Jimmer In Action (book)**: [https://lijma.github.io/jimmer-in-action/](https://lijma.github.io/jimmer-in-action/)
-- **Cat Emoji Generator (vibecoding poc)**: [https://catemojigenerator.xyz](https://catemojigenerator.xyz/)
 - **A2UI Genie (server generated ui)**: [https://github.com/lijma/Genie](https://github.com/lijma/Genie)
+
