@@ -1,13 +1,13 @@
 ---
-title: "别再让 AI 把前端做成一次性原型：我为什么做 floop"
+title: "别再让 AI 把前端做成一次性原型：我为什么做 Fdesign"
+description: "AI 写 UI 很快，但设计 token、组件边界和主题规则会在迭代中失控。Fdesign 把设计规则作为可校验、可版本控制的工程资产。"
 date: 2026-06-17
 author: Marvin
 categories:
   - AI工程
-  - 前端工程
-  - 开发者工具
+  - 设计过程
 tags:
-  - floop
+  - fdesign
   - AI Agent
   - UI 工程
   - 设计系统
@@ -20,7 +20,7 @@ AI 写前端很快，但它经常把你的设计系统写散。
 
 第一版像魔法，第五版像事故现场。
 
-所以我做了 floop：一个开源、local-first 的质量回路，让 AI 在生成 UI 前先理解 token 和组件，在生成后被规则反向检查。
+所以我做了 Fdesign：一个开源、local-first 的设计工程工具，让 AI 在生成 UI 前先理解 token 和组件，在生成后接受规则校验。
 
 <!-- more -->
 
@@ -56,7 +56,7 @@ AI 没有恶意。它只是太擅长“往前生成”了。
 
 工程还需要往回看：看已有约束，看组件边界，看设计系统，看团队约定。
 
-这就是 floop 想补上的地方。
+这就是 Fdesign 想补上的地方。
 
 ## 为什么 prompt 不够？
 
@@ -88,11 +88,11 @@ AI 没有恶意。它只是太擅长“往前生成”了。
 
 我把它叫做“一次性原型陷阱”。
 
-## floop 的想法：给 AI 加一个质量回路
+## Fdesign 的想法：让设计规则像代码一样工作
 
-floop 不是另一个 UI 生成器。
+Fdesign 不是另一个 UI 生成器。
 
-它更像一个夹在 AI agent 和代码库之间的质量回路。
+它更像一套放在 AI agent 和代码库之间的设计工程约束。
 
 核心思路很简单：
 
@@ -100,14 +100,14 @@ floop 不是另一个 UI 生成器。
 
 生成后，再用规则反向检查。
 
-在 floop 里，AI 不应该直接冲进页面写 HTML。它要先理解项目里的设计 token 和组件结构，例如：
+在 Fdesign 里，AI 不应该直接冲进页面写 HTML。它要先理解项目里的设计 token 和组件结构，例如：
 
 - 哪些颜色、间距、圆角、字号是允许的
 - 哪些组件已经存在
 - 哪些场景应该复用 `Button`、`Card`、`Dialog`、`Table`
 - 哪些写法属于违规，比如裸写颜色值、绕过组件库、重复造 wheel
 
-然后 floop 用 CLI 做校验。
+然后 Fdesign 用 CLI 做校验。
 
 如果 agent 写了一个硬编码的 `#333`，而项目要求用 `var(--text-primary)`，检查应该失败。
 
@@ -115,7 +115,7 @@ floop 不是另一个 UI 生成器。
 
 失败不是坏事。
 
-失败是回路的一部分。
+失败说明规则终于从口头要求变成了工程约束。
 
 AI 看到错误，回去改，再检查，直到符合项目规则。
 
@@ -135,7 +135,7 @@ Figma Make 和 Google Stitch 很强。
 
 我希望设计规则就放在仓库里，像代码一样被 review，像配置一样被版本控制。
 
-这也是 floop 选择 local-first 的原因。
+这也是 Fdesign 选择 local-first 的原因。
 
 AI agent 可以换。今天 Cursor，明天 Claude Code，后天 Copilot 或 Codex。
 
@@ -164,19 +164,19 @@ AI 会写 UI。
 
 靠 code review 兜底，也太晚。
 
-floop 想把这件事提前。
+Fdesign 想把这件事提前。
 
 在 AI 写出一堆“看起来能用”的代码之后，立刻问它：
 
 > 你真的遵守项目规则了吗？
 
-## 我希望 floop 成为什么
+## 我希望 Fdesign 成为什么
 
-我不想把 floop 做成一个“更聪明的生成器”。
+我不想把 Fdesign 做成一个“更聪明的生成器”。
 
 生成器已经够多了。
 
-我更想把它做成 AI UI 工程里的刹车和护栏。
+我更想把它做成 AI UI 工程里的设计基础设施。
 
 快，是 AI 的优势。
 
@@ -188,10 +188,10 @@ floop 想把这件事提前。
 
 最贵的是第三周还能继续改，第六周还能放心合并，第十二周新人接手时不会想重写。
 
-这就是 floop 的出发点：
+这就是 Fdesign 的出发点：
 
 让 AI 写出的 UI，不再只是 demo，而是能进入工程生命周期的代码。
 
 项目地址：
 
-[https://github.com/lijma/floop-server](https://github.com/lijma/floop-server)
+[github.com/lijma/fdesign](https://github.com/lijma/fdesign)

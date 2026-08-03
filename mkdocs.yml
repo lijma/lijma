@@ -28,10 +28,11 @@ theme:
 
 nav:
   - Home: index.md
+  - fgeo: https://github.com/lijma/fgeo
   - floop: https://github.com/lijma/floop-server
+  - fdesign: https://github.com/lijma/fdesign
+  - fcontext: https://github.com/lijma/fcontext
   - testboat: https://lijma.github.io/testboat/
-  - fcontext: https://lijma.github.io/agent-skill-fcontext/
-  - fgeo: https://lijma.github.io/agent-skill-fgeo/
   - Jimmer in action: https://lijma.github.io/jimmer-in-action/
   - 关于: about.md
   - 随想: https://lijma.github.io/lives/
