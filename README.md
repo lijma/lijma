@@ -2,7 +2,7 @@
 
 I focus on enterprise AI implementation and complex-system practice, sharing how ideas become real products, business outcomes, and things more people can see.
 
-**Slogan**: Sharing my journey from ideas to impact. `#AI` `#Harness` `#Skill`
+**Slogan**: Sharing my journey from ideas to impact.
 
 **For**: business owners, business leaders, and individual creators who want to use technology and AI to turn ideas into real business outcomes or digital products.
 
