@@ -2,20 +2,20 @@
 
 I focus on enterprise AI implementation and complex-system practice, sharing how ideas become real products, business outcomes, and things more people can see.
 
-**Slogan**: Sharing my journey from ideas to impact. `#AI` `#BuildInPublic`
+**Slogan**: Sharing my journey from ideas to impact. `#AI` `#Harness` `#Skill`
 
 **For**: business owners, business leaders, and individual creators who want to use technology and AI to turn ideas into real business outcomes or digital products.
 
 **Not about**: news aggregation, abstract takes without execution, or chasing trends without turning them into reusable practice.
 
+### My Products
+- [DeepSeek Harness Plugins](https://dshindex.dev/): Find the right DeepSeek Harness plugin.
+- [floop server](https://github.com/lijma/floop-server): floop connects your AI development workflow to real user feedback. no extra tools, no vendor lock-in.
+- [https://catemojigenerator.xyz](https://catemojigenerator.xyz/): vibe code example, for my 7 child cats
+
 ### Growth
 - **FGEO User Growth(Action x Feedback x Adaptation)**: [https://github.com/lijma/fgeo](https://github.com/lijma/fgeo)
 - **Jimmer In Action (book)**: [https://lijma.github.io/jimmer-in-action/](https://lijma.github.io/jimmer-in-action/)
-
-### My Products
-
-- [floop server](https://github.com/lijma/floop-server): floop connects your AI development workflow to real user feedback. no extra tools, no vendor lock-in.
-- [https://catemojigenerator.xyz](https://catemojigenerator.xyz/): vibe code example, for my 7 child cats
 
 ### Projects
 
