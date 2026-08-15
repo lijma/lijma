@@ -9,8 +9,8 @@ I focus on enterprise AI implementation and complex-system practice, sharing how
 **Not about**: news aggregation, abstract takes without execution, or chasing trends without turning them into reusable practice.
 
 ### My Products
-- [DeepSeek Harness Plugins](https://dshindex.dev/): Find the right DeepSeek Harness plugin.
 - [floop server](https://github.com/lijma/floop-server): floop connects your AI development workflow to real user feedback. no extra tools, no vendor lock-in.
+- [DeepSeek Harness Plugins](https://dshindex.dev/): Find the right DeepSeek Harness plugin.
 - [https://catemojigenerator.xyz](https://catemojigenerator.xyz/): vibe code example, for my 7 child cats
 
 ### Growth
