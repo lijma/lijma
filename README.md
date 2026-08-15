@@ -8,7 +8,7 @@ I focus on enterprise AI implementation and complex-system practice, sharing how
 
 ### My Products
 - [floop server](https://github.com/lijma/floop-server): floop connects your AI development workflow to real user feedback. no extra tools, no vendor lock-in.
-- [DSH Plugin Marketplace](https://dshindex.dev/): Browse daily discovery, repository movement, and community reports before choosing what to explore in DeepSeek Harness
+- [DSH Plugin Marketplace](https://dshindex.dev/): DeepSeek Harness plugins, tracked in public
 - [https://catemojigenerator.xyz](https://catemojigenerator.xyz/): vibe code example, for my 7 child cats
 
 ### Growth
